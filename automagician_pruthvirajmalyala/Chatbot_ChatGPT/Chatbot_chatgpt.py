@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "API KEY"
 
 messages = [{"role": "system", "content": "SmartAIchatBot"}]
 
